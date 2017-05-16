@@ -55,16 +55,18 @@ This circuit is drawing power from UNO, but it is not controlled by it. We need 
 
 3. On the IDE `Blink` sketch, replace `LED_BUILTIN` with `10`. The basic code should look like:
 
-        void setup() {
-            pinMode(10, OUTPUT);
-        }
+   ```
+   void setup() {
+        pinMode(10, OUTPUT);
+   }
 
-        void loop() {
-            digitalWrite(10, HIGH);
-            delay(1000);
-            digitalWrite(10, LOW);
-            delay(1000);
-        }
+   void loop() {
+       digitalWrite(10, HIGH);
+       delay(1000);
+       digitalWrite(10, LOW);
+       delay(1000);
+   }
+   ```
 
 4. Plug UNO into the usb, and click the upload arrow to load the sketch.
 
