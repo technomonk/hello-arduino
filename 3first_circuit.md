@@ -57,7 +57,7 @@ This circuit is drawing power from UNO, but it is not controlled by it. We need 
 
    ```
    void setup() {
-        pinMode(10, OUTPUT);
+       pinMode(10, OUTPUT);
    }
 
    void loop() {
