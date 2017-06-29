@@ -13,7 +13,7 @@ layout: default
 
 > index image: "Arduino Uno R3", [SparkFun](https://commons.wikimedia.org/wiki/File:Arduino_Uno_-_R3.jpg)
 
-> all other images and content: cc-by-sa <a href="https://github.com/evanwill">evan will</a> 2016
+> all other images and content: cc-by-sa <a href="https://github.com/evanwill">evan will</a> 2016. (get [source code]({{ site.repo }}))
 
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 
