@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 1-UNO
+nav: true
 ---
 
 # 1.0 - Introducing Arduino UNO 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 5-Challenge
+nav: true
 ---
 
 # 5.0 - Extra Credit!

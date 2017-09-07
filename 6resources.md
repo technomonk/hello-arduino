@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 6-Resources
+nav: true
 ---
 
 # 6.0 - Arduino Resources

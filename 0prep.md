@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 0-Prep
+nav: true
 ---
 
 # 0.0 - Preparation 

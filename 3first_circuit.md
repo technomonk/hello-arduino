@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 3-Blink
+nav: true
 ---
 
 # 3.0 - Blink

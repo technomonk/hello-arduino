@@ -2,21 +2,30 @@
 # based on minima theme https://github.com/jekyll/minima
 
 # Site settings
-
 title: Hello Arduino!
 description: > 
   Learn about the Arduino electronics platform by making lights blink and buzzers buzz! 
 keywords: "arduino workshop, code intro, light theremin"
 
-url: "https://evanwill.github.io/arduinoIntro" # the base hostname & protocol for your site
-
-google_analytics: UA-74844011-1
-
 # author settings for cc-by
 author: evan will
 github_username: evanwill
+twitter_username: EvanPeterWill
 pub_year: 2017
+
+# add the full url for the github repository
 repo: "https://github.com/evanwill/hello-arduino"
+
+# add the full url for the repository's gh-pages
+# hint: it's in the form https://username.github.io/repo-name
+url: "https://evanwill.github.io/hello-arduino" 
+
+# add google analytics
+google_analytics: UA-74844011-1
 
 # Build settings
 markdown: kramdown
+
+# Notes: 
+# - fig include, {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
+# - pages with "nav: true" in front matter will be in header nav

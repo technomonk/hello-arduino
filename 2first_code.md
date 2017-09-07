@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 2-IDE 
+nav: true
 ---
 
 # 2.0 - Arduino Code

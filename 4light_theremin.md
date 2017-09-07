@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 4-Buzz
+nav: true
 ---
 
 # 4.0 - Buzz
