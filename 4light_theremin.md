@@ -11,7 +11,8 @@ For this project you will need some jumper wires, a piezo, a 10k ohm resistor, a
 
 ![parts needed](images/ther1.JPG)
 
-This time we are adding a *sensor*, the photoresistor, so that UNO can get input from the outside world, i.e. UNO can get interactive! The piezo provides the buzzing and we control it by having UNO read the photoresistor.
+This time we are adding a *sensor*, the photoresistor, so that UNO can get input from the outside world, i.e. UNO can get interactive! 
+The piezo provides the buzzing and we control it by having UNO read the photoresistor.
 
 # 4.1 - Light theremin circuit 
 

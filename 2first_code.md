@@ -7,7 +7,8 @@ title: 2-IDE
 
 Lets make an LED blink! 
 
-For this project all we need is an UNO board, a usb cable, and the IDE. This mini project will get you oriented to the UNO, the IDE, and the code that makes it do *stuff*.
+For this project all we need is an UNO board, a usb cable, and the IDE. 
+This mini project will get you oriented to the UNO, the IDE, and the code that makes it do *stuff*.
 
 > IDE = Integrated Development Environment = an application that allows you to edit/write code, compile it, and send it to Arduino devices. 
 
