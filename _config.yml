@@ -16,12 +16,23 @@ pub_year: 2017
 # add the full url for the github repository
 repo: "https://github.com/evanwill/hello-arduino"
 
-# add the full url for the repository's gh-pages
-# hint: it's in the form https://username.github.io/repo-name
-url: "https://evanwill.github.io/hello-arduino" 
+# site urls
+# add the url for the domain,
+# on gh-pages follow the pattern: https://username.github.io 
+url: https://evanwill.github.io
+# add subsection of the domain,
+# on gh-pages this is a / followed by the name of the repository
+baseurl: /hello-arduino
 
 # add google analytics
 google_analytics: UA-74844011-1
+
+# defaults (to simplify front matter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 
 # Build settings
 markdown: kramdown
