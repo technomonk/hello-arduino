@@ -19,10 +19,10 @@ repo: "https://github.com/technomonk/hello-arduino"
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://technomonk.github.io
+url: https://mystifying-wiles-8e924d.netlify.app/
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /hello-arduino
+# baseurl: /hello-arduino
 
 # add google analytics
 google_analytics:
